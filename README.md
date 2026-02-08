@@ -1,5 +1,5 @@
 # 💫 About Me:
->B.Sc. IT student specializing in Cloud and Application Development<br>>Interested in cloud infrastructure, automation, and backend logic<br>Enjoys exploring new ideas both in real life and through hands-on experimentation<br>>Learns best by building, breaking, and rebuilding things until they work
+>>B.Sc. IT student specializing in Cloud and Application Development<br>>Interested in cloud infrastructure, automation, and backend logic<br>>Enjoys exploring new ideas both in real life and through hands-on experimentation<br>>Learns best by building, breaking, and rebuilding things until they work
 
 
 ## 🌐 Socials:
